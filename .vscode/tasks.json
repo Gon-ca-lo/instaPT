@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "🚀 Publicar no GitHub (InstaPT)",
+            "type": "shell",
+            "command": "cmd.exe",
+            "args": [
+                "/c",
+                "cd /d E:\\1Websites\\InstaPT && git add . && git commit -m \"Atualização automatica\" && git push && echo ✅ Publicado com sucesso! && pause"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true,
+                "focus": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
