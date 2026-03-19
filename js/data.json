@@ -1,0 +1,58 @@
+{
+    "menu": {
+        "Produtos": {
+            "Eletrônicos": {
+                "Smartphones": {
+                    "subcategoria": "Smartphones de última geração"
+                },
+                "Computadores": {
+                    "subcategoria": "Computadores e notebooks"
+                }
+            },
+            "Roupas": {
+                "Masculino": {
+                    "subcategoria": "Moda masculina"
+                },
+                "Feminino": {
+                    "subcategoria": "Moda feminina"
+                }
+            }
+        },
+        "Serviços": {
+            "Consultoria": {
+                "Empresarial": {
+                    "subcategoria": "Consultoria para empresas"
+                },
+                "Pessoal": {
+                    "subcategoria": "Consultoria pessoal"
+                }
+            },
+            "Suporte": {
+                "Técnico": {
+                    "subcategoria": "Suporte técnico especializado"
+                },
+                "Online": {
+                    "subcategoria": "Suporte via chat"
+                }
+            }
+        },
+        "Sobre": {
+            "Empresa": {
+                "História": {
+                    "subcategoria": "Nossa história e missão"
+                },
+                "Equipe": {
+                    "subcategoria": "Conheça nossa equipe"
+                }
+            },
+            "Contato": {
+                "Localização": {
+                    "subcategoria": "Onde estamos localizados"
+                },
+                "Telefone": {
+                    "subcategoria": "Números para contato"
+                }
+            }
+        }
+    }
+}
